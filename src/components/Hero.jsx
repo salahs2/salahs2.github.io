@@ -14,11 +14,11 @@ export const Hero = () => {
       </p>
 
       <div className="flex flex-wrap items-center gap-6 font-mono text-sm md:text-base text-[#c0caf5]/60 mb-12">
-        <a href="#" className="flex items-center gap-2 hover:text-[#ff9e64] transition-colors">
+        <a href="https://github.com/salahs2" target="_blank" className="flex items-center gap-2 hover:text-[#ff9e64] transition-colors">
           <Github size={18} /> GitHub
         </a>
         <span className="text-[#c0caf5]/20">|</span>
-        <a href="#" className="flex items-center gap-2 hover:text-[#ff9e64] transition-colors">
+        <a href="https://linkedin.com/in/salahsalah" target="_blank" className="flex items-center gap-2 hover:text-[#ff9e64] transition-colors">
           <Linkedin size={18} /> LinkedIn
         </a>
       </div>
