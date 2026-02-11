@@ -31,14 +31,14 @@ export const Hero = () => {
         <span className="text-[#c0caf5]/30">/</span> */}
         <div className="flex items-center gap-3 opacity-50">
           <div className="w-12 h-12 rounded-lg flex items-center justify-center">
-            <img width="64" height="64" src="src\assets\icons\fidelitylogo.png" alt="Fidelity-Logo" />
+            <img width="64" height="64" src="/icons/fidelitylogo.png" alt="Fidelity-Logo" />
           </div>
           <span className="text-[#c0caf5]"> Fidelity <span className="text-xs">(Past)</span></span>
         </div>
         <span className="text-[#c0caf5]/30">/</span>
         <div className="flex items-center gap-3 opacity-50">
           <div className="w-10 h-10 rounded-full flex items-center justify-center text-white text-xs">
-            <img className="rounded-full" width="64" height="64" src="src\assets\icons\hoopplogo.jpg" alt="HOOPP-Logo" />
+            <img className="rounded-full" width="64" height="64" src="/icons/hoopplogo.jpg" alt="HOOPP-Logo" />
           </div>
           <span className="text-[#c0caf5]">HOOPP <span className="text-xs">(Past)</span></span>
         </div>
