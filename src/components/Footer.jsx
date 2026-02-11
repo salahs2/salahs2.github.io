@@ -14,8 +14,8 @@ export const Footer = () => {
           <div className="flex items-center gap-4">
           </div>
           <div className="flex items-center gap-4 text-[#c0caf5]/40">
-            <a href="#" className="hover:text-[#ff9e64] transition-colors"><Github size={16} /></a>
-            <a href="#" className="hover:text-[#ff9e64] transition-colors"><Linkedin size={16} /></a>
+            <a href="https://github.com/salahs2" target="_blank" className="hover:text-[#ff9e64] transition-colors"><Github size={16} /></a>
+            <a href="https://linkedin.com/in/salahsalah" target="_blank" className="hover:text-[#ff9e64] transition-colors"><Linkedin size={16} /></a>
           </div>
         </div>
       </div>
