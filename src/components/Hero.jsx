@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, Linkedin, Twitter, ArrowRight } from 'lucide-react';
+import { Github, Linkedin } from 'lucide-react';
 
 export const Hero = () => {
   return (
@@ -24,11 +24,6 @@ export const Hero = () => {
       </div>
 
       <div className="flex flex-wrap items-center gap-8 font-mono">
-        {/* <div className="flex items-center gap-3">
-          <div className="w-8 h-8 rounded-full bg-[#7aa2f7] flex items-center justify-center text-white text-xs">$</div>
-          <span className="text-[#c0caf5]">Stan</span>
-        </div>
-        <span className="text-[#c0caf5]/30">/</span> */}
         <div className="flex items-center gap-3 opacity-50">
           <div className="w-12 h-12 rounded-lg flex items-center justify-center">
             <img width="64" height="64" src="/icons/fidelitylogo.png" alt="Fidelity-Logo" />
